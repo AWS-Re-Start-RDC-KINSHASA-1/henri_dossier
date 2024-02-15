@@ -1,0 +1,55 @@
+body {
+    background-color: #ddd;
+}
+
+
+
+#menu {
+    background-color: rgb(93, 81, 202);
+    height: 80px;
+    margin: 10px;
+}
+
+li {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    padding: 10px;
+}
+
+ul li a {
+    color: whitesmoke;
+}
+
+ul li a:hover{
+    color: orangered;
+    text-decoration: underline;
+}
+
+.navigation li{
+    float: left;
+    padding: 35px;
+}
+
+.navigation li a{
+    text-decoration: none;
+}
+
+form{
+    padding: 3%;
+    text-align: right;
+}
+
+.main_footer{
+background-color: black;
+}
+
+.main_footer p{
+    color: rgb(93, 81, 202);
+    text-align: center;
+    }
+h1{
+    text-align: center;
+}
